@@ -7,4 +7,4 @@ Used Random User Generator to fill employee cards
 https://randomuser.me/
 
 # Technology 
-Node.js 
+React.js
